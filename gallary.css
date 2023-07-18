@@ -117,7 +117,7 @@
   display: flex;
   align-items: center;
   justify-content: center;
-  height: 50vh;
+  height: 85vh;
 }
 
 h1 {
@@ -126,10 +126,4 @@ h1 {
   color: #023047;
   padding: 20px;
   margin: 30px;
-}
-
-.audio {
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
